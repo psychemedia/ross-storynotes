@@ -1,0 +1,15 @@
+title: Ross-on-Wye Storynotes
+author: Tony Hirst
+copyright: "2025-" 
+only_build_toc_files: true
+
+execute:
+  execute_notebooks: off
+  timeout: 60  
+parse:
+  myst_dmath_double_inline: true
+
+sphinx:
+  config:
+    html_copy_source: false
+

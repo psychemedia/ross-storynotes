@@ -1,0 +1,10 @@
+format: jb-book
+root: preface
+parts:
+- caption: Some Tales Told
+  chapters:
+  - file: ross-may-hill-old-ellen
+- caption: Tales to Tell
+  chapters:
+  - file: ross-who-killed-the-bear
+  - file: ross-ruardean-murder
