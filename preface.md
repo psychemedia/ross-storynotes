@@ -1,6 +1,6 @@
 # Preface
 
-This set of storynotes, and the associated repository, represents work-in-progress notes relating to stories from Roos-on-Wye, the Forest of Dean, Monmouthshire, and the three Counties.
+This set of storynotes, and the associated repository, represents work-in-progress notes relating to stories from Ross-on-Wye, the Forest of Dean, Monmouthshire, and the three Counties.
 
 Elements of the online book pages are rather more polished than the raw original notes in the base repository, although some of the online book pages may also include raw notes.
 
