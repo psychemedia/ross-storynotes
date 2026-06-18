@@ -16,7 +16,7 @@ Cunning Folk and Highwaymen of the Forest of Dean
 
 ---
 
-https://archive.org/details/sim_gentlemans-magazine_1852-02_37/mode/2up?q=%22wilton+bridge%22+psalmody
+https://archive.org/details/sim_gentlemans-magazine_1852-02_37/mode/2up
 The Gentleman's Magazine  1852-02: Vol 37
 
 It would not be easy to point out a finer ride than that furnished by the road last mentioned, and to those who wish to enjoy it fully, and have not the leisure to proceed slowly and take the country in detail, I would recommend a seat on the top of the stage coach. After passing Wilton Bridge, the road soon gains rather more elevated ground, which it keeps during a great part of the journey. As we proceed through the parish of Peterstow we obtain rich near views, and the scenery becomes still more interesting in the neighbourhood of Pengethley. Further on, at a cross road, is a place called David's Grave, which is still an object of superstitious dread among the country people. It is said that many years ago—probably more than a century— a noted highwayman of that name was executed and buried here—the little lane turning to the left has the somewhat ominous name of Bier-less Lane, which it is pretended to have received from the circumstance that the body of this notorious offender was brought along it to his grave without a bier. The peasantry believe that at night David's ghost appears in a little wood at the corner of the road. and, if he does no greater mischief, it is firmly believed that he delights in frightening horses, and that waggons and carts are frequently overturned or break down by his agency. This seems to receive a kind of confirmation from the circumstance observed by many who are no believers in ghosts, that when such accidents occur it is almost sure to be on this spot.
@@ -24,8 +24,13 @@ It would not be easy to point out a finer ride than that furnished by the road l
 ---
 TO DO
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0003883/18660908/012/0002
-Leeds Evening Express - Saturday 08 September 1866
+First appears in *Household Words. A Weekly Journal*, Conducted by Charles Dickens, 1851-08-09: Vol 3 Iss 72, [pp. 461-4](https://archive.org/details/sim_household-words-a-weekly-journal-by-charles-dickens_1851-08-09_3_72/mode/2up).
+
+About *Household Words*: Founded (and edited) by Dickens in 1850. He would serialise Hard Times in it in 1854. https://victorianweb.org/periodicals/hw.html . List of contributors (?) in Lohrli, Anne. Household Words: A Weekly Journal 1850-1859 Conducted by Charles Dickens — Table of Contents, List of Contributors and Their Contributions Based on The Household Words Office Book in the Morris L. Parrish Collection of Victorian Novelists, Princeton University Library. Toronto: University of Toronto Press, 1973. __THERE IS A COPY IN THE OU LIBRARY__
+
+Then in *Leeds Evening Express*, [Saturday 08 September 1866](https://britishnewspaperarchive.co.uk/viewer/bl/0003883/18660908/012/0002) *et al.*
+
+Also appeared as *A Dean Forest Love Story* in *Gloucestershire Chronicle*, [Saturday 02 October 1869](https://britishnewspaperarchive.co.uk/viewer/bl/0000393/18691002/019/0003).
 
 A Tale of the Forest of Dean
 
@@ -65,39 +70,29 @@ This might have been, and would have been a case of murder, if it were possible 
 
 Several leaders of the forest outbreak having been taken and tried, their Commander-in-Chief, Mr Posser, among others, went abroad. The cases of old Mrs Winny Kear and others who had built cottages thoughtlessly on royal ground, were mercifully dealt with by the Government, and leases were granted to them at a peppercorn rent for various terms, according to the length of time the several encroachments had existed. Winny fell asleep in peace, when death arrived to do for her what she had been doing all her life;—to gather her for ashes. I cannot say that since then *I* have lived in peace. But I am happy.
 
-Also in 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000336/18690522/012/0006
-Leeds Times - Saturday 22 May 1869
+Also in *Leeds Times*, [Saturday 22 May 1869](https://britishnewspaperarchive.co.uk/viewer/bl/0000336/18690522/012/0006).
 
 Literature
 
 A Tale of the Forest of Dean
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0001243/18720808/075/0006
-Tadcaster Post, and General Advertiser for Grimstone - Thursday 08 August 1872
+In *Tadcaster Post, and General Advertiser for Grimstone*, [Thursday 08 August 1872](https://britishnewspaperarchive.co.uk/viewer/bl/0001243/18720808/075/0006).
 
 Literature
 
 A Tale of the Forest of Dean
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0000393/18691002/019/0003
-Gloucestershire Chronicle - Saturday 02 October 1869
-
-A Dean Forest Love Story
 
 ---
 witches elsewhwre
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000328/18480921/019/0004
-North Devon Journal - Thursday 21 September 1848
+In *North Devon Journal*, [Thursday 21 September 1848](https://britishnewspaperarchive.co.uk/viewer/bl/0000328/18480921/019/0004).
 
 Another Old Betty
 
 ```{admonition} Witchcraft in Warwickshire — trial for murder, December 1875
 :class: dropdown
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000393/18751218/036/0005
-Gloucestershire Chronicle - Saturday 18 December 1875
+In *Gloucestershire Chronicle*, [Saturday 18 December 1875](https://britishnewspaperarchive.co.uk/viewer/bl/0000393/18751218/036/0005).
 
 WITCHCRAFT IN WARWICKSHIRE.
 
@@ -149,16 +144,14 @@ The jury acquitted the prisoner on the ground of insanity, and he was ordered to
 
 ```
 
-----
-https://britishnewspaperarchive.co.uk/viewer/bl/0000398/18360601/002/0002
-Hereford Journal - Wednesday 01 June 1836
+
+In *Hereford Journal*, [Wednesday 01 June 1836](https://britishnewspaperarchive.co.uk/viewer/bl/0000398/18360601/002/0002).
 
 Shocking Murder in the Forest of Dean.— A powerful sensation has been produced the Forest of Dean, by the murder a labourer named Philip Cooke, under the following circumstances.— It appears that the deceased, who lived at the Cross Ways, near Coleford, and had been employed for a short time in stripping bark at Usk, was returning home on Saturday night se'nnight, when on passing through the Beaulieu Wood, he observed a woman with a child in her arms, standing by two persons who were lying on the ground. He accosted the woman, and inquired what was the matter, when she told him that the men were intoxicated. He proffered his assistance, and the men, who turned out to be Irish tinkers, and hawkers of list shoes, got up, and with his aid proceeded through the wood. On reaching Stanton, one of the Irishmen wished to have more beer, and a quarrel arose between them on the subject, in which however Cooke took no part. Cooke then said to the woman "you had better come on with me, as I shall be a better guard for you than these two fellows." He had scarcely uttered these words when the Irishmen both set upon him and beat him dreadfully, trampling upon him when down with hobnailed shoes. At last they left off, and Cook got up and made the best of his way towards Coleford. The men loitered and then pursued him, keeping his pace. It was nearly twelve o'clock when the party arrived at the Cross Ways, where Cooke lived. The latter went into his house, put down his things, and then ran and called a man of the name of Henry Yorke and another named Jordon, the turnpike keeper. Yorke got up, followed his wife, and came into the road at the time when the Irish party were passing through the turnpike. The woman cried out, "what are you going to beat the old man for?"— to which Yorke replied that he was not going to beat any one. During this time Cooke stood with his hands crossed in the middle of the road, and Yorke demanded why they had been beating Cooke; on this the Irishwoman whispered to one of the men to get a stone, when he retired a pace or two back, where there was a broken stone fence, and taking two large slate stones in either hand advanced upon Cooke, saying, "I'll split thy skull for thee;" he instantly flung one of the stones with all his force, and struck the unfortunate man on the temple. Cooke dropped, apparently dead; and Jordan and Yorke made an attempt to capture the ruffian, who declared that he would serve them in the same manner if they came near him. They followed him down to a lodging-house between the Cross-Ways and Coleford, into which he entered, but escaped by the back-door, and has not since been heard of. The other man and the woman were captured a few hours afterwards. Cooke lingered in a most distressing state until Thursday morning, when he expired. The stone had perforated his forehead, and the brain was only covered by a thin tegument, so that it is very surprising how he survived so long. The deceased bore an excellent character, and has left a wife and two children to lament his loss. He was about 40 years of age.
 
 ```{admonition} Reward Offered for Tinker Charged with Wilful Murder, June 1856
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0000393/18360625/027/0003
-Gloucestershire Chronicle - Saturday 25 June 1836
+In 8Gloucestershire Chronicle*, [Saturday 25 June 1836](https://britishnewspaperarchive.co.uk/viewer/bl/0000393/18360625/027/0003).
 
 The Murder in the Forest of Dean.— It will seen, from the following letter, that his Majesty's Government has offered a reward of one hundred pounds for the apprehension Daniel Finnigan, *alias* Dan the Tinker, who stands charged under the Coroner's warrant with "wilful murder," committed upon the body of Philip Cooke, at the Cross-Ways, near Coleford, on the night the of 21st of May last:—
 
@@ -176,8 +169,7 @@ Rev. Geo. Roberts, Coleford.
 ```{admonition} TO DO
 :class: dropdown
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0003358/18360703/032/0005
-Weekly Dispatch (London) - Sunday 03 July 1836
+In *Weekly Dispatch (London)*, [Sunday 03 July 1836](https://britishnewspaperarchive.co.uk/viewer/bl/0003358/18360703/032/0005).
 
 HORRID MURDERS.
 
@@ -190,8 +182,7 @@ Also a further reward of 100*l.* for the apprehension of a man named Daniel Finn
 
 ```{admonition} Shocking Murder in the Forest of Dean, June 1836
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0000912/18360604/047/0004
-Cardiff and Merthyr Guardian, Glamorgan, Monmouth, and Brecon Gazette - Saturday 04 June 1836
+In *Cardiff and Merthyr Guardian, Glamorgan, Monmouth, and Brecon Gazette*, [Saturday 04 June 1836](https://britishnewspaperarchive.co.uk/viewer/bl/0000912/18360604/047/0004).
 
 SHOCKING MURDER IN THE FOREST OF DEAN.
 
@@ -204,9 +195,7 @@ The deceased bore an excellent character, and has left a wife and two children t
 A coroner's inquest has since been held and a verdict of Wilful Murder returned against the man not in custody.
 ```
 
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0000365/18401010/050/0004
-Carlisle Patriot - Saturday 10 October 1840
+In *Carlisle Patriot*, [Saturday 10 October 1840](https://britishnewspaperarchive.co.uk/viewer/bl/0000365/18401010/050/0004).
 
 MURDER AND SUICIDE. A most dreadful murder and suicide were committed in the Forest of Dean oh Monday night, about seven o'clock, by a man of the name of Philip Willis, a foreman in the employ of Messrs. James and Co., of Sydney. Willis held the situation of underground agent in some mines in the Forest of Dean. the property of the Cinderford Iron Company, and was very comfortably off, the cottage in which he resided, and the orchard adjoining, being his own property; he had also two houses at Bream. The unfortunate man had heen for some time in an unsound state of mind, and about six months ago he became an inmate of the lunatic asylum at Whitchurch, from which establishment he was discharged in about six weeks, with a certificate of cure. On the 10th of May last he cut his throat, but through the skilful attention of Mr. Marsh, surgeon, of Coleford, he recovered. For the last fortnight a man had always slept with him, but on Monday, his wife informed this man that she considered her husband so much better, that she should not be afraid to occupy the same bed with him. During the whole of Monday, he was excited and nervous, seeming to he afraid of everyone who came near him, and about five o'clock on Monday evening, Willis, his wife, and daughter, a very pretty and most amiable girl, and of whom he was most doatingly fond, sat down to tea together; just before tea he kissed his child, and said. "You don't know, my dear Ann, how I love you." He also knelt down and prayed, as he often used to do, that the Lord would strengthen his mind. After tea the daughter went outside the cottage door, and was in the act of chopping sticks to light the fire next morning, when her father, who had taken a hacker (an instrument resembling a bill-hook), went quietly behind her, and as she stooped aimed a deadly blow at the back of her head, and buried the hacker in her skull, which was cut through in a most frightful manner. Immediately on receiving the blow she cried out "Oh, dear! oh, dear?" Her mother, hearing this, rushed out, and was met in the doorway by Willis, who attempted to cut her down. A dreadful struggle ensued between the husband and the terror-stricken wife, in which the latter received a dreadful cut in the arm, and a deep gash was inflicted on the left shoulder, her gown and under garments were cut through, and her faced bruised, both eyes being blackened and much swollen. Whilst the struggle was going on, the poor girl (wonderful to relate) went to a neighbour's cottage, forty yards distant from the scene of blood. Mr. Marsh, of Coleford, was soon in attendance, but she died in about an hour after having received the injury. She spoke several times, and asked why her father had not come to her? The neighbours being alarmed, ran to Mrs. Willis's assistance, who, on seeing them, exclaimed, "Run, for your lives, into the orchard; my husband is gone there." They immediately went in search of him, and, horrible to relate, found him at the foot of one of the trees, with his throat cut in a most shocking manner, his right hand grasping the razor. The poor wretch was still alive, but he died in a very few minutes after being discovered. The escape of the wife was almost miraculous, and it was a providential occurrence that his other two children were absent from home on a visit, or it is probable that they, too, would have fallen victims to his fury. His wife says he was a most excellent husband and fond father; indeed, his love for the poor girl who fell by his hand was extreme. He would not even let her go to chapel by herself, fearing she might come to harm.
 
@@ -217,30 +206,23 @@ Willis was fifty-two years of age, and his unfortunate daughter only seventeen.
 
 
 Amusing aside - "devil's Chapels" in:
-https://britishnewspaperarchive.co.uk/viewer/bl/0000491/18310806/027/0003
-Sheffield Independent - Saturday 06 August 1831
+
+In *Sheffield Independent*, [Saturday 06 August 1831](https://britishnewspaperarchive.co.uk/viewer/bl/0000491/18310806/027/0003).
+
 Temperance societies
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000398/18411013/024/0004
-
-Hereford Journal - Wednesday 13 October 1841
+In *Hereford Journal*, [Wednesday 13 October 1841](https://britishnewspaperarchive.co.uk/viewer/bl/0000398/18411013/024/0004).
 
 THE IRON-MINES OF THE FOREST OF DEAN. Some of the primitive iron-mines in the Forest are great curiosities, although they easily escape the attention of a stranger, from their secluded situation, and the obscurity of their entrances. A small aperture, not unlike a fox-earth, amongst projecting masses of limestone rock, admits the miner to the scene of his labours. He descends partly by wooden pegs driven into the soil, and partly by the help of a short ladder which he carries with him, and thus arrives in the subterranean labyrinth, from which he excavates the ore. These mines arc worked by labouring men, who are "free miners" under the old Forest laws, assisted by their families; and the ore is carried to the surface by young boys, in packages called "billies," which are secured on the back, and thus secured they crawl on hands, knees, and feet, from the recesses of the mine, till they climb into daylight. The hands and knees of these poor boys are frequently perfectly hoofed; the skin being converted into a bony texture by continual pressure. The iron ore, lying "pockets" or "churns" as they are called by the miners, ribbed in by the limestone rock, leaves irregular passages and caverns all directions, after it has been dug out, so that the interior presents the most grotesque combinations of pillars, cells, grottoes, lofty domes, and narrow, low corridors of variously coloured limestone, the effect of which, under the partial illumination of the miners' candles, is often very imposing. This class of iron mines is now in very partial operation, in consequence of the application of capital to improved methods of mining on a larger scale.—The scene which the writer wishes to describe is the site of probably the most ancient mine-works the kingdom, and not visited so frequently as it deserves to be. It lies near the village of Bream, on the left of the turnpike-road, leading from Lydney to Coleford, and is known by the provincial appellation of "The Scowles," a name commonly applied to old mine works, and probably derived, as suggested by a learned Forest Commissioner, from the British *Ceawl*, signifying cavern or excavation. In the recesses of a wood near some of the primitive mines, you suddenly enter upon what at first sight appears to be an extensive and confused ruin, in a deep dell, overgrown with ivy and lichen, and interspersed with lofty trees. These masses are, in reality, the limestone rock left in its natural formations after the iron ore had been carried away by the old British and Roman miners, who appear to have pursued a course of mining downwards from the surface, clearing out the superficial "churns," as far as they extended in every direction, and thus leaving cavities and elevations, to which a long course of years has given their present romantic appearance by obliterating all traces of the process, and clothing every hollow with vegetation. Tall and spreading trees flourish on the very summits of some of the natural columns that rear their lofty forms amidst this wild scene; others extend their branches over clustering rocks covered with moss and creeping plants, whilst devious paths winding their way amongst these relics of nature, exposed by art, invite the visitor's tarriance, whilst he indulges in the musing mood which such a spot is calculated to inspire. But the most singular portion of these antique scowles is a grotesque mass of rocks, called "The Devil's Chapel," in which is a pulpit vast dimensions, appropriated by the country people to the infernal oratory of Satan, when he officiates on solemn occasions amongst his congregations of demons and witches, there assembled. In truth, it is a scene well adapted to superstitious imaginings, and to old tales of witchcraft and *diablerie*, in which the arch-demon and his earthly colleagues, celebrate their nocturnal orgies. A cloudy midnight in such a place, with glimpses of moonshine just revealing its rugged horrors, and profound shades; a fitful night-wind, and flapping boughs, with now and then the cry of an ill-omened bird, startling the ear, would soon make a susceptible imagination run wild, peopling the solitude with its unutterable visions. For my own part, in the sweet spring air, and the softened light of an April morning, the scene impressed me with no unhallowed fancies. It led back my imagination to the barbarous infancy of our now enlightened land; filled my thoughts with pictures of the past and musings on the present; with reflections on the transit of generation after generation, and across the disc of mortality, each leaving behind it contributions of knowledge and ingenuity, whilst its own final destinies are elsewhere. In the midst of my cogitation, a devotional feeling emanated, alike from their nature and the seclusion in which they originated. I referred the progressive improvement of our race in science, in art, and in morals, to the intellectual endowments bestowed on us, by Him who reigns supreme over universal existence; and offered up my grateful orisons for the faculties which enabled me to think, to reason, and to feel as I then did—to exult in the emotions of taste, and whilst acknowledging myself "the creature of an hour," recognise an immortal alliance with the Eternal Father, "to whom a thousand years are as one day." A Way-farer.
 
 
-*Also reprinted in part in:* 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000393/18420122/033/0003
-Gloucestershire Chronicle - Saturday 22 January 1842
+*Also reprinted in part in Gloucestershire Chronicle,[Saturday 22 January 1842](https://britishnewspaperarchive.co.uk/viewer/bl/0000393/18420122/033/0003).*
 
-
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0000396/18780629/105/0006
-Hereford Times - Saturday 29 June 1878
+In *Hereford Times*, [Saturday 29 June 1878](https://britishnewspaperarchive.co.uk/viewer/bl/0000396/18780629/105/0006).
 
 WOOLHOPE NATURALISTS FIELD CLUB
 
 ...
-
 
 200 years ago in the neighbourhood, which was thought to be that of a man 11 or 12 feet high, but was more probably the bones of some fossil animal, were those of one of Vortigern's soldiers. Vortigern retreated into Wales after the battle at Amesbury, in Wiltshire, in A.D. 457(?), and it is thought took refuge at the Doward before going into Radnorshire, where he was burned in his castle. But there is no doubt that this neighbourhood was the scene of many a desperate encounter between the Saxons and the Welsh, and even so late as 1640, property was very insecure, and great losses were sustained by the incursions of predatory marauders. The Roman station, Blestium, is supposed to be that of Monmouth and that of Ariconium about two miles from Ross. A large number of natural caves or caverns occur in places on both sides of the river, in some cases 200 to 300 feet above the present level of the water; two or three on the left bank, of which the largest and most curious is "The Diblin," although but little visited, from its isolated and rocky situation, is entered by a small opening four feet wide by two feet high. After a short scramble on hands and knees you reach a cavern in the deepest part of which you can just stand upright. Two openings lead inwards and downwards, but unite at a distance of from 30 to 40 yards. From this point you may wander for an hour or more through small passages and some considerable caverns beautifully ornamented by stalactite and stalagmite. One is called the Devil's Chapel. Another cavern has recently been opened out by a mine shaft; this has an arched roof about thirty feet high; is about one hundred feet long, by fifty wide. But the most famous is of course that which has long been known as King Arthur's cave or hall. In reference to this cave, it is reported that the rhinoceros bones were so plentiful that a neighbouring farmer carted them out to manure his land, and thus, it is said, led to the explorations and discoveries which have since been made by the Rev. W. S. Symonds, M.A., of Pendock, and other gentlemen. In clearing out the rubbish on the upper surface, they found portions of two human skeletons, and pottery of the Romano-British period. ...
 
@@ -248,8 +230,7 @@ WOOLHOPE NATURALISTS FIELD CLUB
 
 also in:
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000396/18780914/182/0010
-Hereford Times - Saturday 14 September 1878
+In *Hereford Times*, [Saturday 14 September 1878](https://britishnewspaperarchive.co.uk/viewer/bl/0000396/18780914/182/0010).
 
 WOOLHOPE NATURALISTS' FIELD CLUB.
 
@@ -294,14 +275,14 @@ Hafren / Sabrina Goddess of the River Severn
 
 ---
 
-https://archive.org/details/folklore02croogoog/page/n30/mode/2up
+
 
 Folk-Lore
 Vol XV March 1904, no. 1
 
 TO DO
 
-Presidential address p12
+Presidential address [p12](https://archive.org/details/folklore02croogoog/page/n30/mode/2up).
 
 *Tradition and its Conditions*
 
@@ -324,29 +305,25 @@ https://archive.org/search?query=creator%3A%22Folklore+Society+%28Great+Britain%
 
 ---
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0001272/18491110/042/0005
-Monmouthshire Beacon - Saturday 10 November 1849
+In *Monmouthshire Beacon*, [Saturday 10 November 1849](https://britishnewspaperarchive.co.uk/viewer/bl/0001272/18491110/042/0005).
 
 FOREST OF DEAN. Highway Robbery.—On Monday the 5th inst. James and Joseph Williams, two colliers of Cinderford, were taken before the magistrates at Newnham, charged with robbing Mr. Vaughan, a farmer of Ruardean. It appeared from the evidence that Mr. Vaughan had been to Cinderford to receive some money for work which had been done by his horses for the Cinderford Iron Works Company, and between the hours of three and four o'clock in the afternoon, as he was crossing Ruardean Hill Inclosure, two men rushed from behind a bush, one of them took Mr. Vaughan by the collar with his left hand, and in his right he held a pistol against Mr. Vaughan's head, while the other man stood a short distance off with a large stick in his hand. The man who was holding him by the collar then demanded his money, threatening at the same time that if he did not give all up to them he would blow his brains out. Mr. Vaughan then took part of his money from his pocket and gave to him. The robber said he had more and must deliver it up, or else he would blow his brains out. Mr. Vaughan then gave up all his money, which consisted of two notes of the Ross Bank, four sovereigns, one half-sovereign, and 10s. in silver; the man that held him by the collar then kicked him up, and both ran away. Information of the robbery was given to the police at Lydbrook, when P.C. Cook of that station immediately went in search of the rubbers, and after obtaining the assistance of Sergeant Banning of the Littledean station, he succeeded in taking into custody the two Williams's, and with the aid of P.C. Thompson of the Littledean station, searched their houses, but could not find any of the money which could be identified. The men were then taken before Mr. Vaughan who at once identified them as the two men who had robbed him; also identified some clothes which were found in their houses as being part of the dress they wore when they robbed him. The prisoners were both committed to Gloucester County Gaol for trial at the next assizes.
 
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0000396/18491013/038/0007
-Hereford Times - Saturday 13 October 1849
+In *Hereford Times*, [Saturday 13 October 1849](https://britishnewspaperarchive.co.uk/viewer/bl/0000396/18491013/038/0007).
 
 FOREST OF DEAN. Lydney.—Attempted Burglary.—On the night of the 4th inst., Highfield house, near this place, the residence of J. James Esq,, was attempted to be entered. It appears that the thieves removed the iron grating which was over the under-ground cellar windows, and broke an iron bar which was fixed in the centre of the casement, but it is supposed they were disturbed in their operations by P.C. Harrison, of the Lydney station, who passed Highfield house between one and two o'clock. The constable remained for some time, and there is no doubt but that the thieves must have heard him, as they decamped without their intended plunder. The police are using every exertion to detect the offenders.
 
 ...
 
-Charge of Stealing Coals.— *John Guest* was broueht up in custody of P.C. Watts, of the Littledean station, charged with stealing about two tons of coal from the Cinderford iron works. The prisoner was discharged, there not being sufficient evidence to commit him.
+Charge of Stealing Coals.— *John Guest* was brought up in custody of P.C. Watts, of the Littledean station, charged with stealing about two tons of coal from the Cinderford iron works. The prisoner was discharged, there not being sufficient evidence to commit him.
 
 ...
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000350/18400115/011/0002
-Worcestershire Chronicle - Wednesday 15 January 1840
+In *Worcestershire Chronicle*, [Wednesday 15 January 1840](https://britishnewspaperarchive.co.uk/viewer/bl/0000350/18400115/011/0002).
 
 EXTRAORDINARY CASE OF HIGHWAY ROBBERY, AND COLD-BLOODED ATTEMPT AT MURDER.
 
-Early on Sunday morning last, this city and neighbourhood were thrown into a state of the greatest excitement by the report that a man, who had left this city the previous night, had been murdered and robbed a few miles below Tewkesbury, on the road to Cheltenham, and strong suspicion attached to a young man who lately held a very respectable situation in a stationer's shop in this city, and had always borne an unimpeachable character. From the circumstances detailed, little doubt seemed to exist that he was really the guilty party, but we are happy to state that all suspicion was removed by his appearance in this city on Monday last about twelve o'clock. On enquiry into the facts connected with this transaction we ascertained that a person named Yarworth, who is a stone getter, in the Forest of Dean, had been in this city for some few days previous to Saturday last, collecting his half-yearly accounts from the stene masons here, and receiving orders for future supplies. After finishing his business he returned to Mr. Thornes', at the Angel Inn, where he had been staying, with the intention of proceeding homewards by the way of Cheltenham, and on the arrival of the Wellington coach, which proceeds from this city to Bristol through Gloucester, at Mr. Thornes', Mr. Yarworth, with two other gentlemen, Mr. Pritchard and Mr. Sharp, got upon it. Nothing more was heard of the parties until about twelve o'clock that night, when an express arrived at our Police Station-house, from Martin, the Tewkesbury constable, stating shortly that Mr. Yarworth had been robbed and fired at twice, by a person whose description was forwarded, and who was supposed to have got upon the Mr. Thornes'. This description so far tallied with that of Mr, Pritchard, that the suspicions above mentioned seemed to leave little doubt of his guilt. Thus matters remained until about three on Sunday afternoon, when Mr, Thornes and a friend of Mr. Pritchard's proceeded to the Pitt's Elm public-house, whither Mr. Yarworth had been removed, who, upon seeing Mr. Thornes, stated that he was very glad he was come, and upon their inquiring as to Mr. Pritchard, Mr. Yarworth at once declared that he was not the person. Thus satisfied, Mr. Thornes, with Mr. Pritchard's friend, proceeded to Cheltenham in hopes to meet him there. About twelve o'clock at night the Bristol mail arrived in this city, and many persons had assembled to ascertain if anything further was known. Horsley, the coachman, stated that he had brought Mr. Pritchard by the coach to Tewkesbury, and had left him there, the mail being then full, so that he could not come on to Worcester; upon this intelligence some friends of Mr. Pritchard's proceeded in a fly to Tewkesbury, where they found him about three o'clock in the morning in bed at the Anchor Inn. He immediately got up, and his friends informed him of the report in circulation, and advised his at once proceeding to see Mr. Yarworth, to which he readily assented, and the parties having ordered a second fly, proceeded to the Pitt's `sic` Elm public-house, called the Old White Swan; where, after ascertaining that Mr. Yarworth was sufficiently well and collected to see and identify any person, Mr. Pritchard was introduced, when he immediately said to Mr. Pritchard's friends, "That is not the man, he is as innocent as you are." This having perfectly satisfied them, Mr. Yarworth then stated the circumstances attending the attack nearly as follows:—
+Early on Sunday morning last, this city and neighbourhood were thrown into a state of the greatest excitement by the report that a man, who had left this city the previous night, had been murdered and robbed a few miles below Tewkesbury, on the road to Cheltenham, and strong suspicion attached to a young man who lately held a very respectable situation in a stationer's shop in this city, and had always borne an unimpeachable character. From the circumstances detailed, little doubt seemed to exist that he was really the guilty party, but we are happy to state that all suspicion was removed by his appearance in this city on Monday last about twelve o'clock. On enquiry into the facts connected with this transaction we ascertained that a person named Yarworth, who is a stone getter, in the Forest of Dean, had been in this city for some few days previous to Saturday last, collecting his half-yearly accounts from the stene masons here, and receiving orders for future supplies. After finishing his business he returned to Mr. Thornes', at the Angel Inn, where he had been staying, with the intention of proceeding homewards by the way of Cheltenham, and on the arrival of the Wellington coach, which proceeds from this city to Bristol through Gloucester, at Mr. Thornes', Mr. Yarworth, with two other gentlemen, Mr. Pritchard and Mr. Sharp, got upon it. Nothing more was heard of the parties until about twelve o'clock that night, when an express arrived at our Police Station-house, from Martin, the Tewkesbury constable, stating shortly that Mr. Yarworth had been robbed and fired at twice, by a person whose description was forwarded, and who was supposed to have got upon the Mr. Thornes'. This description so far tallied with that of Mr. Pritchard, that the suspicions above mentioned seemed to leave little doubt of his guilt. Thus matters remained until about three on Sunday afternoon, when Mr. Thornes and a friend of Mr. Pritchard's proceeded to the Pitt's Elm public-house, whither Mr. Yarworth had been removed, who, upon seeing Mr. Thornes, stated that he was very glad he was come, and upon their inquiring as to Mr. Pritchard, Mr. Yarworth at once declared that he was not the person. Thus satisfied, Mr. Thornes, with Mr. Pritchard's friend, proceeded to Cheltenham in hopes to meet him there. About twelve o'clock at night the Bristol mail arrived in this city, and many persons had assembled to ascertain if anything further was known. Horsley, the coachman, stated that he had brought Mr. Pritchard by the coach to Tewkesbury, and had left him there, the mail being then full, so that he could not come on to Worcester; upon this intelligence some friends of Mr. Pritchard's proceeded in a fly to Tewkesbury, where they found him about three o'clock in the morning in bed at the Anchor Inn. He immediately got up, and his friends informed him of the report in circulation, and advised his at once proceeding to see Mr. Yarworth, to which he readily assented, and the parties having ordered a second fly, proceeded to the Pitt's `sic` Elm public-house, called the Old White Swan; where, after ascertaining that Mr. Yarworth was sufficiently well and collected to see and identify any person, Mr. Pritchard was introduced, when he immediately said to Mr. Pritchard's friends, "That is not the man, he is as innocent as you are." This having perfectly satisfied them, Mr. Yarworth then stated the circumstances attending the attack nearly as follows:—
 
 After leaving Mr. Thornes, some man got inside the coach, as the guard told him there was no room outside, but at what distance from Worcester I can't exactly say, though I think it was about three miles. We came on to Tewkesbury, where we all got off at the Bear Inn. After the coach had changed horses, Mr. Pritchard was left at Tewkesbury, and the man who was before inside got outside, and took the place Mr. Pritchard had occupied. While proceeding along the road, I said I should walk from Coombe Hill to Cheltenham, and the man said he was going to Cheltenham and would walk with me. When the coach arrived at Coombe Hill, we both got down. I asked him if he would take a glass of ale; he said "I should rather like a drop of gin." We went into the public house, and had a glass of ale and he had a glass of gin, which I pulled out my money to pay for, but was told that it was paid for by the other man. I said, "I don't want you to pay for me. and he said, "It is no matter between you and meé. We then set out to walk, and after proceeding about 400 yards, he pulled out a pistol, and shot me. I caught a glance of something, and turned a little round, and the bullet took my ear, and so round to the back of my neck, where it is now. I then put out my right hand to seize him, but he instantly shot me through the thick part of my side, just under my arm. I fell. He then stood over me, and reloading the pistol, asked mé for my money. I said I could not give it him, I was unable; I said I thought he had shot me enough, and implored him not to shoot me again. He then rifled my pockets, and took seven 5*l*. notes, twelve sovereigns, and nine shillings, a cheque for 5*l*., a bill at two months for 13*l*., drawn by me upon, and accepted by, Mr. Perkes, stonemason, and my watch. After he had done this, he turned to go away. I asked him not to leave me in the road, as the coaches would run over me. He turned back and said, "he was very sorry for having shot me, and that I ought to have given him my money." He then dragged me from the middle to the side of the road, put on my hat, and left me, and went towards Coombe Hill. In about five minutes, I heard a person coming along the road, and called to him; he came to me, and I told him I had been robbed and shot. The person said he could not 'move me himself, but he would soon fetch assistance. He returned in a short time with two other persons, and I was conveyed to this house (the Pitt's Elm public-house.) While Mr. Yarworth was being removed, two gentlemen, who were proceeding from Cheltenham to Tewkesbury on horseback, happened to come up, and having ascertained what was passing, one of them immediately dismounted, and, giving his horse to his friend to hold, rendered every assistance in conveying Mr. Yarworth to the Pitt's Elm public-house; and, having ascertained the danger he was in, immediately prevailed upon his friend to let him have his horse, (his own being a three-year-old,) and at once set off to Tewkesbury for a surgeon, who very promptly attended, and rendered every assistance to the wounded man. Too much praise cannot be bestowed on these gentlemen for the promptitude, alacrity, and willingness which they displayed, nor to the surgeons and others for the prompt assistance rendered by them.
 
@@ -360,8 +337,8 @@ It must strike our readers that a case of so daring and bold a nature as the pre
 
 Since the above was we have learned that the coachman of the Berkeley Hunt, from Cheltenham to London, picked up an individual exactly answering the description given of the perpetrator of this horrid deed, a short distance out of Cheltenham, on the Oxford-road. That he should have got upon the Red Rover coach and returned to this city, is, we find highly improbable, as the man at the turnpike-gate, near to which the robbery was committed, states that he heard the report of the pistols about three minutes after that coach had passed through on its road to Worcester; and, no doubt, the villain chose the opportune moment when he conceived the passengers had got out of hearing, to make his daring attempt. Mr. Yarworth, we are happy to learn, is better, one of the balls having been successfully extracted, and hopes are confidently entertained of his ultimate recovery.
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000174/18400130/029/0008
-Morning Post - Thursday 30 January 1840
+
+In *Morning Post*, [Thursday 30 January 1840](https://britishnewspaperarchive.co.uk/viewer/bl/0000174/18400130/029/0008).
 
 HIGHWAY ROBBERY and ATTEMPT at MURDER
 
@@ -388,15 +365,14 @@ Mr Lefroy, the head of the constabulary force, is now using his best exertions t
 The second ball, which is supposed to be lodged in the liver, has not yet been extracted. The sufferer is a little better, and Mr. Gregory now entertains some slight hopes of his recovery.
 
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000429/18400208/006/0002
-Kendal Mercury - Saturday 08 February 1840
+In *Kendal Mercury*, [Saturday 08 February 1840](https://britishnewspaperarchive.co.uk/viewer/bl/0000429/18400208/006/0002).
 
 TO DO
 
 HIGHWAY ROBBERY AND ATTEMPT AT MURDER. Never have we had to record more atrocious attempt at murder than the one which has caused so much excitement in the town of Cheltenham and its neighbourhood during the past week. The facts are as follows—A person named Richard Yarworth aged twenty four, a quarryman, employed in the forest of Dean, bad been to Worcester for the purpose of collecting some money due to his father, who lives at Dean Pool, near Coleford. On Saturday evening he left Worcester the Wellington coach, in company with two gentlemen, named Pritchard and Sharp- The following deposition the sufferer was taken on Sunday by D. L. St. Clair, Esq.. one of the Cheltenham magistrates — "After leaving Mr. Thome's (the landlord of the Angel Inn) some man got inside the coach, as the guard told him there was no room outside; but at what distance from Worcester I cannot exactly say though I think it about three miles. We came to Tewkesbury, where we all got off at the Bear Inn. After the coach had changed horses Air. Pritchard was left at Tewkesbury and the man who before was inside got outside, and took the place Mr. Pritchard had occupied. While proceeding along the road I said I should walk from Combe-hill to Cheltenham, and the man said he was going to Cheltenham, and would walk with me. When the coach arrived at Combe-hill, we got down. I asked him if he would take a class of ale? He said, should rather like a drop of gin.' We went into the public-house and I had a glass ale and he had a glass gin, which pulled out my money to pay for, but was told that it was paid for by the other man. I said,' I don't want you to pay for me and he said, It is no matter between you and me.' We then set out to walk, and after proceeding about 400 yards he pulled pistol and shot me. I caught a glance of something, and turned a little round, and the bullet took my ear, and so round to the back of my neck, where it is now. I then put out my hand to seize him, but he instantly shot mi through the thick part of my side, just under arm. I fell. He then stood over me, reloading the pistol, asked for my money. I said I could not give it him, that was unable. I said I thought he had shot me enough, and implored him not to shoot again. He tin rifled my pockets, and took seven £H notes, twelve sovereigns, and nine shillings, a check for X - bill at two months for £, 13, drawn by upon, and accepted by, Mr. Parkes, stonemason' and my watch. After he had done this he turned to away. I asked him not to leave me in the road, the coaches would run over He turned back and said, 'he was very sorry for having shot me, and that ought to have given him my money.' then dragged from the middle the side of the road, put on my hat, and left me, and went towards Combe-hill. about Ave minutes heard person com tag along the road, and called to him t he came me, and I told him I had been robbed and root. The person said he could not move himself, but would toon fetch some assistance. He returned in time with two other persons, I was conveyed his house (the PiflTg public-house)." Two gentlemen were passing at the time of hia?? being taken in one whom alighted and assisted, and the other rode Tewkesbury for a surgeon, who attended very promptly. Mr \ eayt, for he recollects, the man who committed the deed stands about five feet height, is of complexion, has dark hair, and bad dark coat with gilt buttons, and dirty white trousers. On Tuesday afternoon the first bullet was extracted Mr Gregory, surgeon of Cheltenham, whore exertions hare been indefatigable. The second ball, which is supposed be lodged in the liver, has not yet been extracted. The is a little better, and Mr. Gregory now entertains some slight hopes of his recovery. We are glad hear that the robber has fallen into the hands of justice. He was arrested on Wednesday at Bristol. and now is safe custody. The clothes ia supposed to hare worn the night of the robbery hare been found the pawnbroker's where he had pledged them, and provided himself with fresh habiliments. The young woman at the public-house Combe-hill, who supplied him with the glass of gin he drank before starting to walk Cheltenham with Mr. Yarworth, has positively identified him; but the wounded man, who we regret to say, remains, in very dangerous state, was not in a condition to see the robber on Wednesday.
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000034/18400307/008/0004
-Bristol Mercury - Saturday 07 March 1840
+
+In *Bristol Mercury*, [Saturday 07 March 1840](https://britishnewspaperarchive.co.uk/viewer/bl/0000034/18400307/008/0004).
 
 TO DO
 
@@ -452,16 +428,14 @@ Bowen, who seemed perfectly unconcerned, was then removed in custody to Gloucest
 
 The inquiry lasted until five o'clock in the afternoon.
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000174/18400811/007/0002
-Morning Post - Tuesday 11 August 1840
+In *Morning Post*, [Tuesday 11 August 1840](https://britishnewspaperarchive.co.uk/viewer/bl/0000174/18400811/007/0002).
 
 DEATH OF RICHARD YARWORTH
 
 It is with much regret that we announce the death of Mr. Yarworth, which event took place yesterday at his father's house at Dean Pool, near Coleford, from the effects of the wound he received so long ago as the 11th of January last, from a robber on the highway at Piff's `sic` Elm, on the road from Tewkesbury to Cheltenham. Though the atrocity which has led to this melancholy termination must be fresh in the memory of many of our readers, there may be some to whom a recapitulation of the circumstances attending it may be acceptable. The unfortunate subject of these remarks was about thirty-four, and has always borne an unblemished character. He was a fine strong young man, of considerable personal courage, but modified by great kindness of disposition. Early in January he left home and went to Worcester to collect some debts due to his father, and he was on his return to Worcester as a passenger on the Wellington coach, on the evening of tho 11th of January, when a little way out of that city a stranger got upon the coach and rode through Tewkesbury to Combe-hill. At Combe-hill poor Yarworth got off the coach for the purpose of walking from thence to Cheltenham, where he had some business to transact; and, having stated this upon the coach, the stranger said he was going to Cheltenham also, and proposed to walk there in company. This was agreed to, and after taking some refreshment at the Combe-hill Inn they set out together, but had not gone far when the stranger suddenly cried "Stand," and at the same instant discharged a pistol, the ball from which carried away part of Yarwoth's ear and entered his neck. The wounded man immediately raised his arm to defend himself, when the assassin fired a second pistol, the ball from which entered Yarworth's side below his arm, and lodged in his back. This completely disabled the unhappy man, and his brutal assailant thereupon proceeded to rifle his pockets, from which he stole seven 5*l*. notes, eleven sovereigns, some silver, and two bills of exchange; and after having, at the wounded man's request, dragged him to the side of the road, the assassin left him. He was found soon afterwards, and removed to the Piff's Elm Inn, where he received surgical attendance. The ball from his neck was extracted, but the one lodged in his back defied the most skilful efforts for its removal; it had lodged in the immediate vicinity of the lungs, and after creating seven months' suffering it yesterday (Friday) terminated the existence of a valuable member of society, and a most respectable though humble man. To the honour of the benevolent feeling of the public it is right to state that a subscription was entered into, and the pecuniary loss of the unfortunate man more than made up, and a liberal reward was offered for the discovery of the assassin. A man named Bowen is now in custody,"on suspicion of being the assassin of Mr. Yarworth, and will take his trial at our ensuing assizes. This circumstance induces us to forbear further remarks on this most painful and melancholy event. —*Glouceser Journal* of Saturday.
 
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000150/18410415/043/0004
-Worcester Journal - Thursday 15 April 1841
+In *Worcester Journal*, [Thursday 15 April 1841](https://britishnewspaperarchive.co.uk/viewer/bl/0000150/18410415/043/0004).
 
 MURDER OF MR. YARWORTH
 
@@ -480,8 +454,8 @@ Mary Ann Preston sworn—I remember the Wellington coach stopping at our house, 
 
 --
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0002067/18951114/068/0003
-Ross Gazette - Thursday 14 November 1895
+
+In *Ross Gazette*, [Thursday 14 November 1895](https://britishnewspaperarchive.co.uk/viewer/bl/0002067/18951114/068/0003).
 
 POACHING AFFRAY IN THE FOREST OF DEAN.
 

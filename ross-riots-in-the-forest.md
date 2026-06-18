@@ -6,8 +6,7 @@ But the times were changing. Industry was starting to pull workers away from the
 
 ```{admonition} Disturbances in Monmouthshire, May 1822
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0000174/18220501/018/0004
-Morning Post - Wednesday 01 May 1822
+In *Morning Post*, [Wednesday 01 May 1822](https://britishnewspaperarchive.co.uk/viewer/bl/0000174/18220501/018/0004).
 
 DISTURBANCES IN MONMOUTHSHIRE.
 
@@ -26,8 +25,7 @@ As ever, certain elements of the press perhaps sought to read more intrigue into
 
 ```{admonition} Refractory colliers, radical instruments of political emissaries?, May 1822
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0002787/18220505/030/0008
-British Neptune - Sunday 05 May 1822
+In *British Neptune*, [Sunday 05 May 1822](https://britishnewspaperarchive.co.uk/viewer/bl/0002787/18220505/030/0008).
 
 Very serious disturbances have taken place in Monmouthshire, particularly at Tredgar, where it has been necessary to call out the military to preserve the peace. These outrages among the colliers are the more remarkable, as the wages they receive are much better than those of the labouring classes in general. The colliers have been lately in many places very refractory, but the ministerial papers, it is presumed, will soon make a notable discovery that they are *Radicals*, and the instruments of political emissaries!
 ```
@@ -36,8 +34,7 @@ Miners in Staffordshire were also moved to take action.
 
 ```{admonition} Disturbances in Staffordshire, May 1822
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0002357/18220514/023/0003
-New Times (London) - Tuesday 14 May 1822
+In *New Times (London)*, [Tuesday 14 May 1822](https://britishnewspaperarchive.co.uk/viewer/bl/0002357/18220514/023/0003).
 
 DISTURBANCES IN STAFFORDSHIRE. [FROM THE STAFFORDSHIRE ADVERTISER OF SATURDAY LAST.]
 
@@ -48,8 +45,7 @@ Just over the English-Welsh border, the disturbances also spilled over to the Fo
 
 ```{admonition} Disturbances in England, May 1822
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0002353/18220505/012/0011
-Champion (London) - Sunday 05 May 1822
+In *Champion (London)*, [Sunday 05 May 1822](https://britishnewspaperarchive.co.uk/viewer/bl/0002353/18220505/012/0011).
 
 DISTURBANCES IN ENGLAND.—Some disturbances have broken out amongst the miners of the Forest of Dean, similar to those of the mining districts of Monmouthshire and South Wales.
 ```
@@ -58,8 +54,7 @@ For the *Bristol Mercury*, the price of iron seems to be have to created a situa
 
 ```{admonition} Cause of the Disturbances in the Great Mining Districts, Aptil 1822
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0000034/18220427/008/0003
-Bristol Mercury - Saturday 27 April 1822
+In *Bristol Mercury*, [Saturday 27 April 1822](https://britishnewspaperarchive.co.uk/viewer/bl/0000034/18220427/008/0003).
 
 CAUSE OF THE DISTURBANCES IN THE GREAT MINING DISTRICTS.
 
@@ -107,8 +102,7 @@ And started to make its way through the Parliamentary process.
 
 ```{admonition} A Bill for Ascertaining the Boundaries of the Forest af Dean, CommonsSecond Reading, May 1830
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0002408/18300524/008/0001
-Morning Herald (London) - Monday 24 May 1830
+In *Morning Herald (London)*, [Monday 24 May 1830](https://britishnewspaperarchive.co.uk/viewer/bl/0002408/18300524/008/0001).
 
 Dean Forest—Bill for ascertaining the Boundaries of the Forest af Dean, Gloucestershire, and for inquiring into the Rights and Privileges claimed by free Miners of the Hundred of St. Briavel's and for other purposes relating to the said Forest—to be read a second time.
 ```
@@ -117,8 +111,7 @@ After the second reading, the Committee stage:
 
 ```{admonition} Dean Forest Bill, June 1830
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0000928/18300619/024/0004
-Monmouthshire Merlin - Saturday 19 June 1830
+In *Monmouthshire Merlin*, [Saturday 19 June 1830](https://britishnewspaperarchive.co.uk/viewer/bl/0000928/18300619/024/0004).
 
 HOUSE OF COMMONS. Friday, JUNE 11.—
 
@@ -131,8 +124,7 @@ The House went into a committee on the Dean Forest bill.
 ```
 
 ```{admonition} Dean Forest Bill, Committee stage, June 1830
-https://britishnewspaperarchive.co.uk/viewer/bl/0000082/18300612/002/0003
-Morning Chronicle - Saturday 12 June 1830
+In *Morning Chronicle*, [Saturday 12 June 1830](https://britishnewspaperarchive.co.uk/viewer/bl/0000082/18300612/002/0003).
 
 Dean Forest Bill
 
@@ -155,8 +147,7 @@ According to a correspondent of th *Monmouthshire Merlin*, one of the problems o
 
 ```{admonition} Inconsistent Laws in the Forest of Dean, June 1830
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0000928/18300626/030/0004
-Monmouthshire Merlin - Saturday 26 June 1830
+In *Monmouthshire Merlin*, [Saturday 26 June 1830](https://britishnewspaperarchive.co.uk/viewer/bl/0000928/18300626/030/0004).
 
 *To the Editor of the Monmouthshire Merlin.*
 
@@ -176,9 +167,8 @@ In a New Year's letter, at the start of 1831, against a background of the Swing 
 
 ```{admonition} All's Well in the Forest of Dean, January 1831
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0000928/18310101/013/0002
-
-Monmouthshire Merlin - Saturday 01 January 1831
+In *Monmouthshire Merlin*, [Saturday 01 January 1831](https://britishnewspaperarchive.co.uk/viewer/bl/0000928/18310101/013/0002
+).
 
 FOREST OF DEAN. To the Editor of the Monmouthshire Merlin.
 
@@ -196,8 +186,7 @@ At the start of June, 1831, in Merthyr Tydvil, miners violently expressed their 
 
 ```{admonition} One atrocity produces several, June 1831
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0001652/18310611/013/0002
-Globe - Saturday 11 June 1831
+In *Globe*, [Saturday 11 June 1831](https://britishnewspaperarchive.co.uk/viewer/bl/0001652/18310611/013/0002).
 
 We regret that it is our unpleasant task this evening to announce the extension of riot and disorder to the Forest of Dean and the neighbourhood of Pontypool. As respects the first instance, the letter of our correspondent gives an explicit statement of the source of dissatisfaction; and it is to be regretted that in times like the present, when misconception as to the extent of local rights is peculiarly mischievous, some public means of doing away with it should not be formally adopted before discontent leads to disturbance. The pioneers of society should not apathetically be allowed to fall victims to their own ignorance when a very little trouble might remove it.] As in the case of Merthyr Tydvil, the chief subject of alarm is the small number of military in the vicinity; and, no the other hand, the same satisfactory assurances are afforded of the absence of all political feelings in these disorders—one source of which, we fear,is the catching nature of the association which produces them. As in the case of Swing, one atrocity produces several; and men look around them for local subjects of complaint. This truth is evinced by a hurried extract from a Shrewsbury paper in relation to a disturbance near Pontypool; which, whether exaggerated, as the Paper believes, or not, appears to be attributable to that cause. We trust these petty but embarrassing, tumults will rapidly subside.
 ```
@@ -206,8 +195,7 @@ However, several reports republished via the *Morning Chronicle* suggest a poten
 
 ```{admonition} Tumultuous assemblages in the Forest of Dean, June 1831
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0000082/18310614/006/0002
-Morning Chronicle - Tuesday 14 June 1831
+In *Morning Chronicle*, [Tuesday 14 June 1831](https://britishnewspaperarchive.co.uk/viewer/bl/0000082/18310614/006/0002).
 
 TUMULTUOUS ASSEMBLAGES IN THE FOREST OF DEAN, AND DESTRUCTION OF THE GOVERNMENT INCLOSURES.
 
@@ -244,8 +232,7 @@ The *Evening Mail* of [Wednesday 15 June 1831](https://britishnewspaperarchive.c
 ```{admonition} Apprehension of "Lewis the huntsman", June 1831
 :class: dropdown
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0001316/18310615/001/0001
-Evening Mail - Wednesday 15 June 1831
+In *Evening Mail*, [Wednesday 15 June 1831](https://britishnewspaperarchive.co.uk/viewer/bl/0001316/18310615/001/0001).
 
 APPREHENSION OF PENDERRIN.—A letter from Merthyr, dated Wednesday night, says—"Lewis, the huntsman," the most desperate of the Merthyr rioters, was apprehended on the 7th, in a wood, in the parish of Penderrin, Breconshire, where he had concealed himself. Information was immediately sent, by express, from M. Morgan, Esq., a Breconshire magistrate, to J. B. Bruce, Esq., at Penydarran, who immediately despatched a post-chaise to bring him to Merthyr. As the escort had to pass over the hills where some of the yeomanry had been disarmed, and through the Hirwain Iron Works, at night, Mr. Franklin, with the same gallantry which he has displayed through the whole of these riots, volunteered to go with a party of 12 of his troop, to escort the prisoner. Mr. Nicholl, of Merthyr-mawr (who had only arrived that evening from London), Mr. Lloyd Watkins, of Penneyre, Colonel Bush, and Mr. W. Crawshay, also accompanied the escort, and this sanguinary ruffian was brought in safety to the guard-house. Evan Thomas, Esq., of Sully (who has in the most handsome manner volunteered his services in assisting the magistrates of the hundred) sat with J. B. Bruce, Esq., and the Rev. George Thomas, and were occupied eight hours in getting through the examination of this prisoner alone. We are told there is no doubt of his full committal.—*Cambrian.*
 
@@ -257,8 +244,7 @@ The following report, from the *North Devon Journal*, from a correspondent in Mo
 
 ```{admonition} Riots in the Forest of Dean, June 1831
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0000328/18310616/002/0001
-North Devon Journal - Thursday 16 June 1831
+In *North Devon Journal*, [Thursday 16 June 1831](https://britishnewspaperarchive.co.uk/viewer/bl/0000328/18310616/002/0001).
 Riots in the Forest of Dean
 
 "Monmouth, Friday Morning.
@@ -279,8 +265,7 @@ TO DO
 
 ```{admonition} A popular display of feeling at Parkend, June 1831
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0001100/18310617/053/0004
-Nottingham Review - Friday 17 June 1831
+In *Nottingham Review*, [Friday 17 June 1831](https://britishnewspaperarchive.co.uk/viewer/bl/0001100/18310617/053/0004).
 
 RIOTS IN THE FOREST DEAN Monmouth, Friday.— The inhabitants of this town and neighbourhood had scarcely recovered from the anxiety necessarily attendant the result of the tumult at Merthyr, when their attention was drawn to another popular display of feeling at Parkend, in the forest of Dean, distant seven miles from this town. A great portion of this extensive forest was, by the 48 Geo. III. cap. 72, inclosed and planted with oak, and which plantations are now in a thriving state of luxuriance; this act provides that eleven thousand acres are always to be kept inclosed as a nursery for the timber. An opinion generally prevails amongst the foresters that these inclosures should have been thrown open at the expiration of twenty-one years, and as the act was passed in 1808 there are several inclosures which have been fenced for a longer period; but a reference to the act must have convinced these poor men of their error, for a section therein provides that the fences can only be legally opened by order of the Lords of the Treasury, and that at a period when the young timber shall be safe from the browsing of the cattle, sheep, and swine, which the inhabitants are in the custom of driving to tack. There have been several meetings of the foresters respecting these inclosures, and about fortnight since a portion of embankment was secretly destroyed at Oaken-hill; this caused a large reward to be offered for the discovery of the offenders, without effect, and as it was generally understood that some manifestation of feeling was to be displayed this week, precautionary hand bills, signed by Edward Machen, Esq., a gentleman much respected, and who holds an official situation in the forest, were circulated; but, regardless of the consequences, on Wednesday morning, a body of men, at first about 80, but whose numbers were increased in the course of the day to 400 or 500, commenced the opening of the inclosures by levelling the embankments.
 
@@ -293,8 +278,7 @@ Since writing the above, the militia staff, &c., have just received orders to be
 
 ```{admonition} The military arrive and the ringleaders apprehended, June 1831
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0000928/18310618/024/0003
-Monmouthshire Merlin - Saturday 18 June 1831
+In *Monmouthshire Merlin*, [Saturday 18 June 1831](https://britishnewspaperarchive.co.uk/viewer/bl/0000928/18310618/024/0003).
 
 [Also appears in large part in e.g. https://britishnewspaperarchive.co.uk/viewer/bl/0000183/18310620/027/0004 London Evening Standard - Monday 20 June 1831 ]
 
@@ -382,16 +366,14 @@ In the Forest, with half of the 3d Dragoons stationed in Monmouth, it seems the 
 
 ```{admonition} Dragoons in Monmouth, June 1831
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0001644/18310625/012/0003
-Roscommon & Leitrim Gazette - Saturday 25 June 1831
+In *Roscommon & Leitrim Gazette*, [Saturday 25 June 1831](https://britishnewspaperarchive.co.uk/viewer/bl/0001644/18310625/012/0003).
 
 Half of the 3d Dragoon Guards are at Monmouth in the vicinity of the Forest of Dean, where disturbances have ceased. The rioters destroyed property amounting to 15,000*l*.
 ```
 
 ```{admonition} A continued work of devastation, June 1831
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0000063/18310628/012/0004
-Hull Packet - Tuesday 28 June 1831
+In *Hull Packet*, [Tuesday 28 June 1831](https://britishnewspaperarchive.co.uk/viewer/bl/0000063/18310628/012/0004).
 
 FOREST OF DEAN.
 
@@ -408,8 +390,7 @@ A correspondent to the *Monmouthshire Merlin* sought to set the rights of the Fo
 
 ```{admonition} The Dean Forest Rights and the impact of the railway, July 1831
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0000928/18310716/027/0004
-Monmouthshire Merlin - Saturday 16 July 1831
+In *Monmouthshire Merlin*, [Saturday 16 July 1831](https://britishnewspaperarchive.co.uk/viewer/bl/0000928/18310716/027/0004).
 
 To the Editor of the Monmouthshire Merlin. SIR,—The "Rights" of the Dean Forest miners to work the coal mines were given them by King Edward the First, on their return from the siege and capture of Berwick, and about the same period in which he granted similar rights to the inhabitants of the Mendip Hills and the High Peak of Derby.
 
@@ -442,10 +423,9 @@ In Westminster, the Forest of Dean Bill continued on its Parliamentary journey a
 
 TO DO
 
-The act 1 & 2 Will. 4. c. 12, sometimes called the Dean Forest Commission Act 1831
-https://archive.org/details/statutesunitedk00britgoog/page/18/mode/2up
+The act 1 & 2 Will. 4. c. 12, sometimes called the Dean Forest Commission Act 1831, c12, [p.18-25](https://archive.org/details/statutesunitedk00britgoog/page/18/mode/2up).
 
-c12, p.18-25
+
 
 An Act for ascertaining the Boundaries of the Forest of Dean and for inquiring into the Rights and Privileges claimed by Free Miners of the Hundred of Saint Briavels and for other Purposes. [2d August 1831.]
 
@@ -535,8 +515,7 @@ XV. And be it further enacted, That this Act shall be deemed and taken to be a P
 
 ```{admonition} Read a third time, and passed, July 1831
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0000183/18310722/018/0003
-London Evening Standard - Friday 22 July 1831
+In *London Evening Standard*, [Friday 22 July 1831](https://britishnewspaperarchive.co.uk/viewer/bl/0000183/18310722/018/0003).
 
 Several bills were forwarded a stage, and others read a third time and passed; amongst which were ... the Dean Forest Bill.
 ```
@@ -545,8 +524,7 @@ Meanwhile, back in the Forest, and Warren James, leader of the Forest miners' re
 
 ```{admonition} Forest of Dean Riots — Trial, August 1831
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0002408/18310815/035/0004
-Morning Herald (London) - Monday 15 August 1831
+In *Morning Herald (London)*, [Monday 15 August 1831](https://britishnewspaperarchive.co.uk/viewer/bl/0002408/18310815/035/0004).
 
 GLOUCESTER ASSIZES; (before Mr. Justice PATTESON.)
 
@@ -578,8 +556,7 @@ There were other charges against the prisoner for rioting on the three following
 ```
 
 ```{admontion} The Dean Forest and Merthyr Rioters, August 1831
-https://britishnewspaperarchive.co.uk/viewer/bl/0000342/18310826/009/0003
-Chester Chronicle - Friday 26 August 1831
+In *Chester Chronicle*, [Friday 26 August 1831](https://britishnewspaperarchive.co.uk/viewer/bl/0000342/18310826/009/0003).
 
 Law & Assize Intelligence. The Dean Forest Rioters.—Warren James, the leader of the Dean Forest Rioters, was found guilty at Gloucester Assizes, on Saturday, of the capital offence of remaining with rioters one hour after the reading be Riot Act. Mr. Justice told the prisoner his life would spared.
 
