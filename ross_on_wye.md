@@ -311,7 +311,7 @@ FOREST OF DEAN. Highway Robbery.—On Monday the 5th inst. James and Joseph Will
 
 In *Hereford Times*, [Saturday 13 October 1849](https://britishnewspaperarchive.co.uk/viewer/bl/0000396/18491013/038/0007).
 
-FOREST OF DEAN. Lydney.—Attempted Burglary.—On the night of the 4th inst., Highfield house, near this place, the residence of J. James Esq,, was attempted to be entered. It appears that the thieves removed the iron grating which was over the under-ground cellar windows, and broke an iron bar which was fixed in the centre of the casement, but it is supposed they were disturbed in their operations by P.C. Harrison, of the Lydney station, who passed Highfield house between one and two o'clock. The constable remained for some time, and there is no doubt but that the thieves must have heard him, as they decamped without their intended plunder. The police are using every exertion to detect the offenders.
+FOREST OF DEAN. Lydney.—Attempted Burglary.—On the night of the 4th inst., Highfield house, near this place, the residence of J. James Esq., was attempted to be entered. It appears that the thieves removed the iron grating which was over the under-ground cellar windows, and broke an iron bar which was fixed in the centre of the casement, but it is supposed they were disturbed in their operations by P.C. Harrison, of the Lydney station, who passed Highfield house between one and two o'clock. The constable remained for some time, and there is no doubt but that the thieves must have heard him, as they decamped without their intended plunder. The police are using every exertion to detect the offenders.
 
 ...
 
